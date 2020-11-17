@@ -8,7 +8,7 @@ mess = """======================================================
 ======================================================"""
 
 print mess
-print "Created by Hack Gore.id"
+print "Created by PathFinder.id"
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
